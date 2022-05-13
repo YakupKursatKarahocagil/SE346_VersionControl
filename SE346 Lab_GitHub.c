@@ -10,4 +10,5 @@ int main()
 
 	printf("Ozge Tekin,987654,SE\n");
 
+	printf("Yakup Kürşat Karahocagil,18243510018,CMPE\n");
 }
